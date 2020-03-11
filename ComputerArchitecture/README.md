@@ -1,9 +1,9 @@
 Chúng ta đang sống trong thời đại mà công nghệ phát triển nhanh hơn bao giờ hết. Vào những năm 40 của thập kỷ trước, xuất hiện chiếc máy tính thương mại đầu tiên, chiếc máy tính ấy có kích cỡ bằng một căn phòng, rất tốn kém và dường như chỉ là những thứ đồ chơi xa xỉ, 70 năm sau đó, máy tính đã trở thành một công cụ không thể thay thế trong cuộc sống hàng ngày. Hiệu năng tính toán của máy tính đã tăng lên gấp rất nhiều lần so với chiếc máy tính thương mại đầu tiên, điều đó đã đưa con người vào một kỷ nguyên mới, đó là kỷ nguyên số. Cho đến năm nay, những bộ vi xử lý mới đã có hiệu năng tính toán cực cao mà 10 năm trước dường như đạt được điều này chỉ là giấc mơ. Dưới đây là một vài bộ xử lý mới có clockspeed đáng kể.
 ```
-AMD Ryzen 9 3900X  				clock: 3.8 - 4.6GHz
-Intel Core i9-9900KS			clock: 4.0 - 5.0GHz
-AMD Ryzen 5 2600X				clock: 3.6 - 4.3GHz
-AMD Ryzen 3 2200G				clock: 3.5 - 3.7GHz
+AMD Ryzen 9 3900X  				    clock: 3.8 - 4.6GHz
+Intel Core i9-9900KS			    clock: 4.0 - 5.0GHz
+AMD Ryzen 5 2600X				      clock: 3.6 - 4.3GHz
+AMD Ryzen 3 2200G				      clock: 3.5 - 3.7GHz
 ```
 
 Tuy nhiên, dường như sự phát triển của tốc độ của bộ xử lý đang chậm lại và đạt đến giới hạn, đó là 5.0GHz. Những giới hạn đó là gì?
